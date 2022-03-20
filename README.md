@@ -1,4 +1,4 @@
-     Tarea 1 de Programación 2
+     Tarea 2 de Programación 2
 
    ~~~                        ~~~
              .--,       .--,
